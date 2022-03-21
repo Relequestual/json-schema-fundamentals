@@ -5,5 +5,4 @@
   "isEmaleConfirmed": "true"
 }
 // Typo for key "isEmaleConfirmed".
-// Invalid, but validates because of applicability.
-// To protect against this, use `additionalProperties: false`.
+// Validates because of applicability.
