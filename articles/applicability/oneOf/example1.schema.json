@@ -1,0 +1,21 @@
+{
+  "items": {
+    "oneOf":[
+      {
+        "properties": {
+          "name": { "type": "string" },
+          "email": { "type": "string" },
+          "isStudent": { "type": "boolean" },
+          "year": { "type": "number" }
+        }
+      }, {
+        "properties": {
+          "name": { "type": "string" },
+          "email": { "type": "string" },
+          "isTeacher": { "type": "boolean" },
+          "class": { "type": "number" }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1234,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "isEmaleConfirmed": "true"
+  }
+]
+// An array is not an object...

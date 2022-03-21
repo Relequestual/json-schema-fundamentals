@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Bob",
+    "email": "bob@example.com",
+    "isStudent": true,
+    "year": 1
+  }, {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "isTeacher": true,
+    "class": "CS101"
+  }
+]

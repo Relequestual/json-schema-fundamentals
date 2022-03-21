@@ -1,0 +1,8 @@
+{
+  "id": 1234,
+  "name": "Bob",
+  "isEmailConfirmed": "true"
+}
+// Email is missing.
+// No validation error because of applicability!
+// Need to use `required`

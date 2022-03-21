@@ -1,0 +1,9 @@
+{
+  "id": 1234,
+  "name": "Bob",
+  "email": "bob@example.com",
+  "isEmaleConfirmed": "true"
+}
+// Typo for key "isEmaleConfirmed".
+// Invalid, but validates because of applicability.
+// To protect against this, use `additionalProperties: false`.

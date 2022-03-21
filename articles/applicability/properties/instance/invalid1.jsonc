@@ -1,0 +1,8 @@
+{
+  "id": 1234,
+  "name": "Bob",
+  "email": "bob@example.com",
+  "isEmailConfirmed": "true"
+}
+// isEmailConfirmed should be a Boolean, not a string.
+// Will cause validation error.

@@ -1,0 +1,6 @@
+{
+  "id": 1234,
+  "name": "Bob",
+  "email": "bob@example.com",
+  "isEmailConfirmed": true
+}
